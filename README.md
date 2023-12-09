@@ -13,4 +13,6 @@ El código y las visualizaciones están disponibles para su revisión, ofreciend
 
 ## Dashboard 
 
-![]("C:\Users\yesen\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2023-12-08 225955.png")
+<img width="595" alt="image" src="https://github.com/Yesi0/Hipotesis-exito-streams-spotify-/assets/125078076/7b8720d5-ecab-427a-b743-25512372099f">
+
+
