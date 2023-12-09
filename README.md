@@ -13,7 +13,7 @@ El código y las visualizaciones están disponibles para su revisión, ofreciend
 
 ## Dashboard 
 
-<img width="595" alt="image" src="https://github.com/Yesi0/Hipotesis-exito-streams-spotify-/assets/125078076/7b8720d5-ecab-427a-b743-25512372099f">
+<img width="643" alt="image" src="https://github.com/Yesi0/Hipotesis-exito-streams-spotify-/assets/125078076/daf8a1ab-a077-4c24-88c3-2d428f088fd4">
 
 ## REGRESIÓN LINEAL
  [CLICK AQUI](https://colab.research.google.com/drive/1LhAAGk5A7pisNzWOXoW5JGJu5voRrM9S?usp=sharing)
